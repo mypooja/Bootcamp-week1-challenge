@@ -65,7 +65,7 @@ p {
     background-position: center;
 }
 
-/* Horizontal sections featuring company's products */
+/* Styling for the Horizontal sections */
 .content {
     width: 75%;
     display: inline-block;
@@ -101,7 +101,7 @@ p {
     margin-left: 25px;
 }
 
-/* Vertical section featuring benefits */
+/* Styling for the vertical section on the right side of the page */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -137,6 +137,7 @@ p {
     text-align: center;
 }
 
-.footer h2 {
+/* Styling for the heading statement in footer */
+.footer h3 {
     font-size: 20px;
 }
